@@ -1,0 +1,559 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"previousSibling"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"text",
+				"innerText"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"Delete",
+				"delete"
+			],
+			[
+				"s",
+				"setAttribute"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"weekday",
+				"weekDay"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"lsi",
+				"list-style"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"ou",
+				"outline-width"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"siz",
+				"resize"
+			],
+			[
+				"si",
+				"box-sizing"
+			],
+			[
+				"b",
+				"border-color"
+			],
+			[
+				"revers",
+				"reversearray"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"col-",
+				"col-sm-6"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"fo",
+				"font-variant-position"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"fony",
+				"font-style"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ba",
+				"border-radius"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Hp/Desktop/trydjango18/src/vikas/urls.py",
+		"/C/Users/Hp/Desktop/trydjango18/src/newsletter/migrations/__init__.py",
+		"/C/Users/Hp/Desktop/trydjango18/pip-selfcheck.json",
+		"/C/Users/Hp/Desktop/m.js",
+		"/C/Users/Hp/Documents/python/hello.py",
+		"/C/Users/Hp/Documents/Building Rest api/views/index.ejs",
+		"/C/Users/Hp/Documents/crud todo/server.js",
+		"/C/Users/Hp/Documents/codementor/views/index.ejs",
+		"/C/Users/Hp/Documents/node/server.js",
+		"/C/Users/Hp/Desktop/vikas_py/pip-selfcheck.json",
+		"/C/Users/Hp/Documents/Building Rest api/server.js",
+		"/C/Users/Hp/Documents/codementor/server.js",
+		"/C/Users/Hp/Documents/Building Rest api/index.html",
+		"/C/Users/Hp/Documents/Building Rest api/app/models/bear.js",
+		"/C/Users/Hp/Documents/codementor/index.html",
+		"/C/Users/Hp/Documents/Building Rest api/index.htm",
+		"/C/Users/Hp/Documents/crud todo/api/controllers/todolistControllers.js",
+		"/C/Users/Hp/Documents/node/views/admin.ejs",
+		"/C/Users/Hp/Documents/node/index.html",
+		"/C/Users/Hp/Documents/crud todo/api/controllers/todoListController.js",
+		"/C/Users/Hp/Documents/node/package.json",
+		"/C/Users/Hp/Documents/node/views/admin.js",
+		"/C/Users/Hp/Documents/crud todo/api/routes/todoListRoutes.js",
+		"/C/Users/Hp/Documents/crud todo/api/models/todoListModels.js",
+		"/F/my folder/designs/Tour and travel/TOUR.html",
+		"/C/Users/Hp/Documents/crud todo/api/models/todomodels.js",
+		"/C/Users/Hp/Documents/crud todo/package.json",
+		"/C/Users/Hp/Documents/crud todo/api/routes/todomodels.js",
+		"/C/Users/Hp/Desktop/index.html",
+		"/C/Users/Hp/Documents/dynamic/server.js",
+		"/C/Users/Hp/Documents/dynamic/package.json",
+		"/C/Users/Hp/Documents/GitHub/node.js/node.js-file-upload-tutorial/app.js",
+		"/C/Users/Hp/Documents/GitHub/node.js/node.js-file-upload-tutorial/package.json",
+		"/C/Users/Hp/Documents/codementor/package.json",
+		"/C/Users/Hp/Documents/GitHub/node.js/nodejs-couchdb-tutorial/app.js",
+		"/C/Users/Hp/Documents/codementor/TOUR.html",
+		"/C/Users/Hp/Documents/codementor/node_modules/express/lib/application.js",
+		"/C/Users/Hp/Documents/codementor/node_modules/anymatch/index.js",
+		"/F/my folder/designs/band/index.html",
+		"/C/Users/Hp/Documents/testing node/node.js",
+		"/C/Users/Hp/Desktop/tic tac toe/layout.html",
+		"/F/my folder/video lectures/coursera(html,CS,JS,Ajax/fullstack-course4-master/fullstack-course4-master/examples/Lecture57/js/ajax-utils.js",
+		"/F/my folder/video lectures/coursera(html,CS,JS,Ajax/fullstack-course4-master/fullstack-course4-master/examples/Lecture57/js/script.js",
+		"/C/Users/Hp/Desktop/TO DO LIST/todo.js",
+		"/C/Users/Hp/Desktop/template/TOUR.html",
+		"/C/Users/Hp/split.js",
+		"/F/my folder/designs/Tour and travel/css/main.css",
+		"/C/Users/Hp/Desktop/website/main.css",
+		"/C/Downloads/Parallax-on-the-Web-DevTips--master/Parallax-on-the-Web-DevTips--master/css/style.css",
+		"/C/Downloads/Parallax-on-the-Web-DevTips--master/Parallax-on-the-Web-DevTips--master/index.html",
+		"/C/Users/Hp/Desktop/website/index.html",
+		"/C/Downloads/Parallax-on-the-Web-DevTips--master/Parallax-on-the-Web-DevTips--master/readme.html",
+		"/C/Downloads/free-white/free-white/white-archive/documentation/js/jquery.easing.js",
+		"/C/Downloads/free-white/free-white/white-archive/documentation/index.html",
+		"/C/Users/Hp/Desktop/ECO/module/module/js/main.js",
+		"/C/Users/Hp/Desktop/New folder (2)/todo.html",
+		"/C/Users/Hp/Desktop/New folder (2)/todo.js",
+		"/C/Downloads/html/086/index.html",
+		"/C/Users/Hp/Desktop/ECO/module/module/index.html",
+		"/C/Users/Hp/Desktop/New folder (2)/todo.css",
+		"/F/my folder/downloaded templtes/templates/templated-epilogue/assets/js/util.js",
+		"/F/my folder/downloaded templtes/templates/templated-epilogue/assets/js/skel.min.js",
+		"/F/my folder/downloaded templtes/templates/templated-epilogue/assets/js/main.js",
+		"/F/my folder/downloaded templtes/templates/templated-epilogue/index.html",
+		"/F/my folder/downloaded templtes/templates/Lhander10/index.html",
+		"/F/my folder/downloaded templtes/templates/Lhander10/css/main.css",
+		"/F/my folder/downloaded templtes/templates/Lhander10/js/main.js",
+		"/C/Users/Hp/Desktop/def/1.html",
+		"/F/my folder/downloaded templtes/templates/Lhander10/css/1.html",
+		"/C/Users/Hp/Desktop/New folder/layout.html",
+		"/F/my folder/downloaded templtes/templates/Lhander10/js/plugins.js",
+		"/C/Users/Hp/Desktop/New folder/tic.js",
+		"/C/Users/Hp/Desktop/New folder/layoutcss.css",
+		"/C/Users/Hp/Desktop/debugging/side-navbar.html",
+		"/C/Users/Hp/Desktop/New folder/js.js",
+		"/C/Users/Hp/Desktop/debugging/css/main.css",
+		"/C/Users/Hp/Desktop/ECO/ElementsCulmyca2016Website-master/ElementsCulmyca2016Website-master/index.html",
+		"/C/Users/Hp/Desktop/ECO/ElementsCulmyca2016Website-master/ElementsCulmyca2016Website-master/css/hamburger.css",
+		"/C/Users/Hp/Desktop/ECO/ElementsCulmyca2016Website-master/ElementsCulmyca2016Website-master/Gaming.html",
+		"/C/Users/Hp/Desktop/debugging/js/script1.js",
+		"/C/Users/Hp/Desktop/debugging/js/script.js",
+		"/C/Users/Hp/Desktop/debugging/TOUR.html",
+		"/C/Users/Hp/Desktop/debugging/index.html",
+		"/C/Users/Hp/Desktop/New folder/css.css",
+		"/C/Users/Hp/Desktop/New folder/html.html",
+		"/C/Users/Hp/Desktop/template/css/main.css",
+		"/F/my folder/video lectures/coursera(html,CS,JS,Ajax/fullstack-course4-master/fullstack-course4-master/examples/Lecture39/after/index.html",
+		"/C/Users/Hp/Desktop/template/css/bootstrap.css",
+		"/C/Users/Hp/Desktop/template/css/bootstrap.min.css",
+		"/C/Users/Hp/Desktop/template/js/bootstrap.js",
+		"/C/Users/Hp/Desktop/template/js/npm.js",
+		"/C/Users/Hp/Desktop/template/js/jquery-2.1.4.min.js",
+		"/C/Users/Hp/Desktop/template/js/bootstrap.min.js",
+		"/C/Users/Hp/Desktop/New folder/js/retry.js",
+		"/C/Users/Hp/Desktop/New folder/js/locked box.js",
+		"/C/Users/Hp/Desktop/New folder/js/weekday.js",
+		"/C/Users/Hp/Desktop/New folder/js/script1.js",
+		"/C/Users/Hp/Desktop/New folder/index.html",
+		"/C/Users/Hp/Desktop/New folder/js/electronic world.js",
+		"/C/Users/Hp/Desktop/07_elife/07_elife/code/chapter/07_elife.js",
+		"/C/Users/Hp/Desktop/07_elife/07_elife/code/animateworld.js",
+		"/C/Users/Hp/Desktop/startbootstrap-creative-gh-pages/startbootstrap-creative-gh-pages/js/creative.js",
+		"/C/Users/Hp/Desktop/startbootstrap-creative-gh-pages/startbootstrap-creative-gh-pages/vendor/bootstrap/js/bootstrap.min.js",
+		"/C/Users/Hp/Desktop/startbootstrap-creative-gh-pages/startbootstrap-creative-gh-pages/vendor/bootstrap/css/bootstrap.min.css",
+		"/C/Users/Hp/Desktop/startbootstrap-creative-gh-pages/startbootstrap-creative-gh-pages/less/creative.less",
+		"/C/Users/Hp/Desktop/startbootstrap-creative-gh-pages/startbootstrap-creative-gh-pages/vendor/jquery/jquery.js",
+		"/C/Users/Hp/Desktop/startbootstrap-creative-gh-pages/startbootstrap-creative-gh-pages/index.html",
+		"/C/Users/Hp/Desktop/startbootstrap-creative-gh-pages/startbootstrap-creative-gh-pages/css/creative.css",
+		"/C/Users/Hp/Desktop/ECO/kswedberg-jquery-smooth-scroll-1.5.2-0-g9165228/kswedberg-jquery-smooth-scroll-dc770ba/jquery.smooth-scroll.js",
+		"/C/Users/Hp/Desktop/startbootstrap-creative-gh-pages/startbootstrap-creative-gh-pages/vendor/magnific-popup/jquery.magnific-popup.js",
+		"/C/Users/Hp/Desktop/coursera(html,CS,JS,Ajax/fullstack-course4-master/fullstack-course4-master/examples/Lecture39/before/index.html",
+		"/C/Users/Hp/Desktop/template/band/css/main.css",
+		"/C/Users/Hp/Desktop/Tour and travel/css/main.css",
+		"/C/Users/Hp/Desktop/template/band/index.html",
+		"/C/Users/Hp/Desktop/Tour and travel/TOUR.html",
+		"/C/Users/Hp/Desktop/coursera(html,CS,JS,Ajax/fullstack-course4-master/fullstack-course4-master/examples/Lecture39/before/css/styles.css",
+		"/C/Users/Hp/Desktop/startbootstrap-creative-gh-pages/startbootstrap-creative-gh-pages/vendor/scrollreveal/scrollreveal.js",
+		"/C/Users/Hp/Desktop/startbootstrap-creative-gh-pages/startbootstrap-creative-gh-pages/gulpfile.js",
+		"/C/Users/Hp/Desktop/New folder/js/A vector type.js",
+		"/C/Users/Hp/Desktop/Tour and travel/hotel.html",
+		"/C/Users/Hp/Desktop/New folder/js/Every and then some.js",
+		"/C/Users/Hp/Desktop/New folder/js/historical life expectancy.js",
+		"/C/Users/Hp/Desktop/05_higher_order/05_higher_order/code/ancestry.js",
+		"/C/Users/Hp/Desktop/template/index.html",
+		"/C/Users/Hp/Desktop/05_higher_order/05_higher_order/index.html",
+		"/C/Users/Hp/Desktop/05_higher_order/05_higher_order/code/load.js",
+		"/C/Users/Hp/Desktop/05_higher_order/05_higher_order/run_with_node.js",
+		"/C/Users/Hp/Desktop/05_higher_order/05_higher_order/code/intro.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"}\n",
+			"scrollTop",
+			"sticky",
+			");\n",
+			".navbar > .container-fluid .navbar-brand",
+			"%;",
+			"lastchild",
+			"right",
+			"%;\n",
+			"div",
+			"left"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango18.project.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

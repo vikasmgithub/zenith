@@ -1,0 +1,148 @@
+{% load staticfiles %}
+
+{% load crispy_forms_tags %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SHIELD">
+    <meta name="author" content="vikas mundra">
+    <link rel="shortcut icon" href="assets/ico/favicon.png">
+
+    <title> SHIELD SERVICES</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{% static 'css/bootstrap.css' %}" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+     <link href="{% static 'css/main.css' %}" rel="stylesheet">
+    <link  href="{% static 'css/icomoon.css' %}" rel="stylesheet">
+    <link href="{% static 'css/animate-custom.css' %}" rel="stylesheet">
+
+
+    
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+    
+    <script src="{% static 'js/jquery.min.js' %}"></script>
+  <script type="text/javascript" src="{% static 'js/modernizr.custom.js' %}"></script>
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="assets/js/html5shiv.js"></script>
+      <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
+  
+  
+  	<div id="navbar-main">
+      <!-- Fixed navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon icon-shield" style="font-size:30px; color:#3498db;"></span>
+          </button>
+          <a class="navbar-brand hidden-xs hidden-sm" href="/"><span class="icon icon-shield" style="font-size:18px; color:#3498db;"></span></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="/" class="smoothScroll">Home</a></li>
+		<!-- 	<li> <a href="#about" class="smoothScroll"> About</a></li>
+			<li> <div class="dropdown edited">
+  <a class="smoothScroll" id="dLabel" data-target="#" href="http://example.com" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+   Services
+  </a>
+
+  <ul class="dropdown-menu edited-menu" aria-labelledby="dLabel">
+   <li><a href="Electrician.html">Electrician</a></li>
+    <li><a href="plumber.html">Plumber</a></li>
+    <li><a href="wall-paint.html">Color Your Home</a></li>
+    <li><a  href="carpanter.html">Carpantery</a></li>
+        <li><a href="laundry.html">Laundry</a></li>
+            <li><a href="automobile.html">Automobile</a></li>
+  </ul>
+</div></li>
+			<li> <a href="#team" class="smoothScroll"> Team</a></li>
+			<li> <a href="#portfolio" class="smoothScroll"> Portfolio</a></li>
+			<li> <a href="#blog" class="smoothScroll"> Blog</a></li>
+			<li> <a href="#contact" class="smoothScroll"> Contact</a></li> -->
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    </div>
+
+
+
+
+    <!-- ==== HEADERWRAP ==== -->
+      <div id="services-header" class="carpanter"  style="background: url('{% static "image/header_bg2.jpg" %}') no-repeat center top" id="home" name="home">
+      <header class="clearfix">
+ <!--            <h1><span class="icon icon-shield"></span></h1> -->
+            <p>Carpanter Service</p>
+  <div id="menu">
+  <!-- Nav tabs -->
+<div>
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active"><a href="#flight" aria-controls="flight" role="tab" data-toggle="tab">####</a></li>
+    <li role="presentation"><a href="#form" aria-controls="form" role="tab" data-toggle="tab">#####</a></li>
+  </ul>
+
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="flight">
+    
+    </div>  
+
+
+    <div role="tabpanel" class="tab-pane" id="form">
+             <button class="btn btn-default" type="submit"><a href="/register">Button</button>
+    </div>
+        </div>
+  </div>
+
+</div>
+
+        </header>     
+      </div><!-- /headerwrap -->
+
+
+      <div id="footerwrap">
+      <div class="container">
+        <h4>Created by <a href="http://blacktie.co">VM.css</a> - Copyright 2017</h4>
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    
+
+
+  <script type="text/javascript" src="{% static 'js/bootstrap.min.js' %}"></script>
+  <script type="text/javascript" src="{% static 'js/retina.js' %}"></script>
+  <script type="text/javascript" src="{% static 'js/jquery.easing.1.3.js' %}"></script>
+    <script type="text/javascript" src="{% static 'js/smoothscroll.js' %}"></script>
+  <script type="text/javascript" src="{% static 'js/jquery-func.js' %}"></script>
+  </body>
+</html>
